@@ -1,1 +1,1 @@
-﻿  https://vasilievkosta.github.io/repoWebdev/webdev/index.html
+﻿  https://vasilievkosta.github.io/repoWebdev/webdev/
